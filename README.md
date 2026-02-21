@@ -37,17 +37,22 @@ Organização em pacotes
 
 #  Estrutura do Projeto
 src/
-│
-├── view/
-│   └── SmartBank.java
-│
-├── model/
-│   ├── Cliente.java
-│   └── Conta.java
-│
-└── Helper/
-    └── Utils.java
- # Descrição das Classes
+
+    ├── view/
+
+             └── SmartBank.java
+
+    ├── model/
+
+             ├── Cliente.java
+ 
+             └── Conta.java
+
+    └── Helper/
+
+              └── Utils.java
+
+# Descrição das Classes
 ## SmartBank.java
 
 Classe principal do sistema.
